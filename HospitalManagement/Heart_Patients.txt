@@ -1,0 +1,3 @@
+[Name:geetha, Relative`s Name:vimala, 
+Gender:F, 
+Disease:Cancer, Department:Cardiology]
